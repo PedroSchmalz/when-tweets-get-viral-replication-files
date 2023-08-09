@@ -4,17 +4,14 @@ Replication Files for the Article "When Tweets Get Viral - A Deep Learning Appro
 
 ## Content
 
-We made available the following output from our annotation system:
+We made available the following replication files:
 
-tweets.csv: A list of all tweets available for annotation
+BERT+KFOLD(2020).ipynb: The code and results of the model trained only on 2020 tweets.
 
-tweets_annotated.csv: The final corpus with stance annotations after considering the majority of annotators, also indicating the the tweet id and date of the post
+BERT+KFOLD(2021).ipynb: The code and results of the model trained only on 2021 tweets.
 
+BERT+KFOLD(2020-21).ipynb: The code and results of the model trained on the tweets of both years.
 
-For the post_vaccine column, the value 0 indicates that the tweet, even though it contains the keywords used in the search, is not related to Covid-19 Vaccines. 1 indicate that it is related to Covid-19 vaccines
-
-
-For the positions_vac column, 1 indicates a tweets that is favourable towards Covid-19 vaccines, 2 indicates that it is neutral towards these vaccines and 3 indicates the negative tweets.
 
 
 ## License
