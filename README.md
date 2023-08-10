@@ -12,6 +12,8 @@ BERT+KFOLD(2021).ipynb: The code and results of the model trained only on 2021 t
 
 BERT+KFOLD(2020-21).ipynb: The code and results of the model trained on the tweets of both years.
 
+Codebook: Additionally, we provide the codebook with informations on the dataset building process, classification rules and some additional content.
+
 Note: The models were trained using Google Colaboratory GPU.
 
 The corpus used on the training can be found on the following [site](https://github.com/PedroSchmalz/covid19-tweets-brazilian-mayoral-candidates)
