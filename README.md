@@ -14,6 +14,8 @@ BERT+KFOLD(2020-21).ipynb: The code and results of the model trained on the twee
 
 Note: The models were trained using Google Colaboratory GPU.
 
+The corpus used on the training can be found on the following [site](https://github.com/PedroSchmalz/covid19-tweets-brazilian-mayoral-candidates)
+
 
 
 ## License
