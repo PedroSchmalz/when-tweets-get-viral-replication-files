@@ -14,9 +14,17 @@ BERT+KFOLD(2020-21).ipynb: The code and results of the model trained on the twee
 
 Codebook: Additionally, we provide the codebook with informations on the dataset building process, classification rules and some additional content.
 
+Slides: Presentation Slides, STIL 2023.
+
 Note: The models were trained using Google Colaboratory GPU.
 
 The corpus used on the training can be found on the following [site](https://github.com/PedroSchmalz/covid19-tweets-brazilian-mayoral-candidates)
+
+
+
+## Related Articles
+
+BARBERIA, Lorena Guadalupe; SCHMALZ, Pedro Henrique de Santana; ROMAN, Norton Trevisan. When Tweets Get Viral - A Deep Learning Approach for Stance Analysis of Covid-19 Vaccines Tweets by Brazilian Political Elites. In: SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL), 14. , 2023, Belo Horizonte/MG. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2023 . p. 104-114. DOI: https://doi.org/10.5753/stil.2023.233961.
 
 
 
